@@ -1,0 +1,65 @@
+{
+	"name" : "Atropos",
+	"AsteroidBelt" : 
+	{
+		"innerRadius" : 1300,
+		"outerRadius" : 1000,
+	},
+	
+	"Base" :
+	{
+		"surfaceGravity" : 15,
+		"surfaceSize" : 300,
+		"hasMapMarker" : true,
+		"hasAmbientLight" : true,
+		"lightTint" : 
+		{
+			"r" : 96,
+			"g" : 123,
+			"b" : 204,
+			"a" : 255
+		},
+	},
+	
+	"Orbit" :
+	{
+		"semiMajorAxis" : 25000,
+		"inclination" : 18,
+		"primaryBody" : "SUN",
+		"isMoon" : false,
+		"longitudeOfAscendingNode" : 0,
+		"eccentricity" : 0,
+		"argumentOfPeriapsis": 0,
+		"axialTilt" : 90,
+	},
+	"Atmosphere" :
+	{
+		"size" : 350,
+		"cloudTint" : 
+		{
+			"r" : 141,
+			"g" : 35,
+			"b" : 217,
+			"a" : 255
+		},
+		"cloud" : "planets/assets/atropos.png",
+		"cloudCap" : "planets/assets/atropos_cap.png",
+		"cloudRamp" : "planets/assets/atropos_ramp.png",
+		"fogTint" : 
+		{
+			"r" : 141,
+			"g" : 35,
+			"b" : 217,
+			"a" : 255
+		},
+		"fogDensity": 0.1,
+		"fogSize": 250,
+	},
+	"HeightMap" :
+	{
+		"heightMap" : "planets/assets/atropos_heightmap.png",	
+		"textureMap" : "planets/assets/atropos_texturemap.png",	
+		"minHeight" : 192,
+		"maxHeight" : 207,
+	}
+}
