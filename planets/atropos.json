@@ -8,7 +8,7 @@
 	
 	"Base" :
 	{
-		"surfaceGravity" : 65,
+		"surfaceGravity" : 45,
 		"surfaceSize" : 300,
 		"hasMapMarker" : true,
 		"hasAmbientLight" : true,
@@ -18,7 +18,7 @@
 	"Orbit" :
 	{
 		"semiMajorAxis" : 25000,
-		"inclination" : 18,
+		"inclination" : 20,
 		"primaryBody" : "SUN",
 		"isMoon" : false,
 		"longitudeOfAscendingNode" : 0,
@@ -31,9 +31,9 @@
 		"size" : 350,
 		"cloudTint" : 
 		{
-			"r" : 141,
-			"g" : 35,
-			"b" : 217,
+			"r" : 176,
+			"g" : 111,
+			"b" : 222,
 			"a" : 255
 		},
 		"cloud" : "planets/assets/atropos.png",
