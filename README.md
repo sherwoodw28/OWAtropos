@@ -13,3 +13,7 @@ As i am writing this on Atropos, i now see the suns light fade twice as i write 
 What is wrong with Atropos, how and WHY is it here, and--- BRZKKT!
 
 -- Gabbro
+
+![unknown](https://user-images.githubusercontent.com/35664389/146685189-d800b557-4a90-4f51-a2e7-86e8e0d3e62e.png)
+
+Made with the New Horizons tool by xen : https://github.com/xen-42/outer-wilds-new-horizons
